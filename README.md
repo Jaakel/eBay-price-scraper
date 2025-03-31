@@ -12,7 +12,7 @@ This script scrapes eBay Australia for listings based on a user-provided search 
 
 ## Prerequisites
 
-- Python 3.6 or higher
+- Tested with Python 3.11
 - Required Python libraries:
   - `requests`
   - `beautifulsoup4`

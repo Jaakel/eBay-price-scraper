@@ -60,6 +60,12 @@ Accept-Language: en-US,en;q=0.5
 Referer: https://www.ebay.com.au/
 ```
 
+## Finding your Session Cookie
+![brave_OxZ3iSmllm](https://github.com/user-attachments/assets/afb205eb-563e-4fa1-b482-0ccbbb03508c)
+
+## Finding your User Agent
+![brave_gGNjjIHnY6](https://github.com/user-attachments/assets/81f36b57-4fd2-4812-8943-cb8d6b7188e6)
+
 ## Output
 The script generates a **listings.csv** file with the following columns:
 
@@ -68,6 +74,7 @@ The script generates a **listings.csv** file with the following columns:
 - **Postage** : Shipping cost (or 0.0 for free postage).
 - **Total Cost** : Sum of price and postage.
 - **Condition** : Product condition (e.g., New, Pre-owned).
+
 - **Brand** : Brand of the product.
 - **Model** : Model of the product.
 - **Others** : Additional details (e.g., memory size).
